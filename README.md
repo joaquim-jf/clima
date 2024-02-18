@@ -23,7 +23,7 @@ O Clima App é uma aplicação web simples que permite aos usuários pesquisar o
 1. Clone este repositório em sua máquina local:
 
 ```
-git clone https://github.com/seu-usuario/clima.git
+git clone https://github.com/joaquim-jf/clima.git
 ```
 
 2. Navegue até o diretório do projeto:
